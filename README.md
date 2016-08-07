@@ -1,2 +1,0 @@
-# oshasoft
-elbashaonline
